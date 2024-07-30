@@ -1,7 +1,3 @@
-Here is a suggested README template for your project repository based on the content of your presentation:
-
----
-
 # Optimization Techniques for t-SNE Visualizations
 
 ## Project Overview
@@ -72,7 +68,3 @@ Despite improvements, the project identifies that t-SNE's sensitivity to initial
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template based on specific details and additional sections relevant to your project!
