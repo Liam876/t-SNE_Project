@@ -30,7 +30,7 @@ Several methods were explored to enhance the performance of t-SNE:
 
 Experiments were conducted using synthetic datasets like circles, blobs, and clusters. The performance of various models was compared, highlighting the hardness of learning the landscape.
 
-![Model Accuracy Comparison](results/Model_Accuracy_Comparison.png)
+![Model Accuracy Comparison](results/NCTSNE_Model_Comparison.png)
 
 ## Conclusion
 
