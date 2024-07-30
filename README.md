@@ -27,7 +27,7 @@ Several methods were explored to enhance the performance of t-SNE:
 
 ## Experiments and Results
 
-Experiments were conducted using synthetic datasets like circles, blobs, and clusters. The performance of various methods was compared, highlighting the effectiveness of the proposed improvements.
+Experiments were conducted using synthetic datasets like circles, blobs, and clusters. The performance of various models was compared, highlighting the hardness of learning the landscape.
 
 ![Model Accuracy Comparison](results/Model_Accuracy_Comparison.png)
 
