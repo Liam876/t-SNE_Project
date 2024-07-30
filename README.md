@@ -16,6 +16,7 @@ This project explores ML and Mathematical based optimization techniques for impr
 
 Dimensionality reduction is crucial for visualizing and interpreting high-dimensional data. While methods like PCA and UMAP are widely used, t-SNE offers unique benefits in preserving local structure.
 
+![T-sne Process Visualized](results/good_convergence.gif)
 
 ## Some Known Improvements and Techniques
 
