@@ -38,7 +38,7 @@ Despite improvements, the project identifies that t-SNE's sensitivity to initial
 
 ## How to Use
 
-1. **Installation**: Create a new environment using the specifications file given.
+1. **Installation**: Create a new environment using requirements.txt file given.
 2. **Data**: Data generation notebooks included. Data might be uploaded to external database.
 3. **Running the Code**: For replecating the results shown in graphs, please download desired data files and change classifier.py files' path accordingly. 
 
